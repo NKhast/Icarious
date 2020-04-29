@@ -1,0 +1,14 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  height: 100vh;
+}
+.outContainer {
+    background-color: #4D78B7;
+
+  }
+  
+  .container {
+    background: #FFFFFF;
+  }
+  
